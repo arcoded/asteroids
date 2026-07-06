@@ -7,13 +7,15 @@ Clone the repo.
 # 2.
 
 Go to the file directory to where you cloned the repo, and set up the virtual environment:  
-`uv venv`
-
+```text
+uv venv
+```
 # 3.
 
 Run the game:  
-`uv run main.py`
-
+```
+uv run main.py
+```
 # Afterword
 
 Thanks for playing, and I hope you have fun!
